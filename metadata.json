@@ -1,0 +1,5 @@
+{
+  "name": "HelpChain Impact Report Generator",
+  "description": "An AI-powered tool for NGOs to generate insightful and visually appealing impact reports from raw data. It helps summarize donation usage, volunteer efforts, and fulfilled requests to promote transparency and effective communication.",
+  "requestFramePermissions": []
+}
